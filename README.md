@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Stay%20curious.%20Keep%20building." alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Shakti13-sys">
-    <img src="https://komarev.com/ghpvc/?username=Shakti13-sys&label=Profile%20views&color=00FFFF&style=flat-square" alt="Shakti13-sys's profile views" />
-  </a>
-</p>
-
 <img src="https://i.pinimg.com/originals/48/72/59/487259006ebb768d17f7ec4497969876.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
